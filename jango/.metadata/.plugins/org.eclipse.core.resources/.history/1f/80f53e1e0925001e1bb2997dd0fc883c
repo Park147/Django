@@ -1,0 +1,6 @@
+from django.db import models
+from bokeh.colors.groups import black
+
+# Create your models here.
+class Bookmark(models.Model):
+    title = models.CharField(max_length=100, black=True)

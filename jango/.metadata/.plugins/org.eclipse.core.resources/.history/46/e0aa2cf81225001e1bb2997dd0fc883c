@@ -1,0 +1,19 @@
+from django.shortcuts import render
+from bookmark.models import Bookmark
+from django.views.generic.list import ListView
+from django.views.generic.detail import DetailView
+
+# Create your views here.
+
+
+def list(request):
+    #select * from bookmark_bookmark order by title
+    urlList=Bookmark.objects.all().order_by("title")
+    
+    urlCount =Bookmark.objects.all().count()
+    return render(request,“bookmark/list.html", {"urlList":urlList, "urlCount":urlCount})
+# class BookmarkLV(ListView):
+#     model = Bookmark
+#
+# class BookmarkDV(DetailView):
+#     model = Bookmark

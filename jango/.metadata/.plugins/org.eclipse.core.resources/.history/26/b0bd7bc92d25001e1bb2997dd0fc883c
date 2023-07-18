@@ -1,0 +1,11 @@
+from django.db import models
+
+# Create your models here.
+
+
+class Board(models.Model):
+    bno = models.AutoField(primary_key=True)
+    writer = models.CharField(null=False, max_length=50)
+    title = models.CharField(null=False, max_length=120)
+    content = models.TextField(null=False)
+    hit = models.IntegerField(default = 0)

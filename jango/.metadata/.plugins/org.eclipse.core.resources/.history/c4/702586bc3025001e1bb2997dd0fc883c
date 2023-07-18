@@ -1,0 +1,7 @@
+from django.contrib import admin
+
+# Register your models here.
+
+@admin.register(Board)
+class BoardAdmin(admin.ModelAdmin):
+    list_display=("title", "writer", "hit", "post_date")

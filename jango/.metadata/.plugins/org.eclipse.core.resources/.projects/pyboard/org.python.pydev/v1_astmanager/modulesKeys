@@ -1,0 +1,15 @@
+MODULES_MANAGER_V3
+board.__init__|C:\Users\admin\git\django\pyboard\board\__init__.py
+board.admin|C:\Users\admin\git\django\pyboard\board\admin.py
+board.apps|C:\Users\admin\git\django\pyboard\board\apps.py
+board.migrations.0001_initial|C:\Users\admin\git\django\pyboard\board\migrations\0001_initial.py
+board.migrations.__init__|C:\Users\admin\git\django\pyboard\board\migrations\__init__.py
+board.models|C:\Users\admin\git\django\pyboard\board\models.py
+board.tests|C:\Users\admin\git\django\pyboard\board\tests.py
+board.views|C:\Users\admin\git\django\pyboard\board\views.py
+manage|C:\Users\admin\git\django\pyboard\manage.py
+pyboard.__init__|C:\Users\admin\git\django\pyboard\pyboard\__init__.py
+pyboard.asgi|C:\Users\admin\git\django\pyboard\pyboard\asgi.py
+pyboard.settings|C:\Users\admin\git\django\pyboard\pyboard\settings.py
+pyboard.urls|C:\Users\admin\git\django\pyboard\pyboard\urls.py
+pyboard.wsgi|C:\Users\admin\git\django\pyboard\pyboard\wsgi.py

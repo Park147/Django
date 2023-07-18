@@ -1,0 +1,92 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\admin\Documents\Django\.metadata\.plugins\org.eclipse.core.resources\.projects\pyboard\com.python.pydev.analysis\v2_indexcache
+board.tests|1689657233660334700|C:\Users\admin\git\django\pyboard\board\tests.py
+pyboard.urls|1689666499868213500|C:\Users\admin\git\django\pyboard\pyboard\urls.py
+board.models|1689659778742934700|C:\Users\admin\git\django\pyboard\board\models.py
+board.apps|1689657234231269400|C:\Users\admin\git\django\pyboard\board\apps.py
+pyboard.asgi|1689657076143636900|C:\Users\admin\git\django\pyboard\pyboard\asgi.py
+board.admin|1689660210872637500|C:\Users\admin\git\django\pyboard\board\admin.py
+pyboard.__init__|1689657075499516300|C:\Users\admin\git\django\pyboard\pyboard\__init__.py
+manage|1689657076146629100|C:\Users\admin\git\django\pyboard\manage.py
+board.views|1689667045072593700|C:\Users\admin\git\django\pyboard\board\views.py
+board.migrations.__init__|1689657233662769200|C:\Users\admin\git\django\pyboard\board\migrations\__init__.py
+pyboard.settings|1689663576971298500|C:\Users\admin\git\django\pyboard\pyboard\settings.py
+pyboard.wsgi|1689657076157599900|C:\Users\admin\git\django\pyboard\pyboard\wsgi.py
+board.__init__|1689657233661334200|C:\Users\admin\git\django\pyboard\board\__init__.py
+board.migrations.0001_initial|1689660274298944000|C:\Users\admin\git\django\pyboard\board\migrations\0001_initial.py
+-- END DISKCACHE
+-- START DICTIONARY
+25
+11=C:\Users\admin\git\django\pyboard\board\models.py
+15=C:\Users\admin\git\django\pyboard\manage.py
+8=board.apps
+24=Migration
+10=board.admin
+14=board.views
+21=Board
+2=pyboard.settings
+9=C:\Users\admin\git\django\pyboard\board\admin.py
+5=C:\Users\admin\git\django\pyboard\pyboard\wsgi.py
+6=pyboard.wsgi
+18=board.migrations.0001_initial
+22=Comment
+20=pyboard.urls
+12=board.models
+4=pyboard.asgi
+16=manage
+25=BoardAdmin
+17=C:\Users\admin\git\django\pyboard\board\migrations\0001_initial.py
+7=C:\Users\admin\git\django\pyboard\board\apps.py
+3=C:\Users\admin\git\django\pyboard\pyboard\asgi.py
+23=BoardConfig
+1=C:\Users\admin\git\django\pyboard\pyboard\settings.py
+13=C:\Users\admin\git\django\pyboard\board\views.py
+19=C:\Users\admin\git\django\pyboard\pyboard\urls.py
+-- END DICTIONARY
+-- START TREE 1
+25
+all|1|ALLOWED_HOSTS!1^30#1*19@
+app|2|application!3^16#1*35@application!5^16#1*51@
+aut|1|AUTH_PASSWORD_VALIDATORS!1^107#1*19@
+bas|1|BASE_DIR!1^18#1*19@
+boa|3|BoardConfig!7^4#7*65@BoardAdmin!9^7#7*81@Board!11^7#7*97@
+com|1|Comment!11^22#7*97@
+dat|1|DATABASES!1^88#1*19@
+deb|1|DEBUG!1^28#1*19@
+def|1|DEFAULT_AUTO_FIELD!1^130#1*19@
+ins|2|insert!13^18#5*114@INSTALLED_APPS!1^43#1*19@
+lan|1|LANGUAGE_CODE!1^113#1*19@
+lis|1|list!13^9#5*114@
+mai|1|main!15^7#5*130@
+mid|1|MIDDLEWARE!1^53#1*19@
+mig|1|Migration!17^7#7*145@
+reg|1|register!13^14#5*114@
+roo|1|ROOT_URLCONF!1^55#1*19@
+sec|1|SECRET_KEY!1^25#1*19@
+sta|1|STATIC_URL!1^125#1*19@
+tem|1|TEMPLATES!1^71#1*19@
+tim|1|TIME_ZONE!1^115#1*19@
+upl|1|UPLOAD_DIR!13^7#1*115@
+url|1|urlpatterns!19^26#1*163@
+use|2|USE_TZ!1^119#1*19@USE_I18N!1^117#1*19@
+wsg|1|WSGI_APPLICATION!1^73#1*19@
+-- END TREE
+-- START TREE 2
+15
+bno|2|bno!21&11^8#5*99@bno!22&11^26#5*99@
+cno|1|cno!22&11^24#5*99@
+con|2|content!21&11^11#5*99@content!22&11^28#5*99@
+def|1|default_auto_field!23&7^5#5*67@
+dep|1|dependencies!24&17^11#5*147@
+dow|2|down!21&11^16#5*99@down_up!21&11^20#9*98@
+fil|2|filename!21&11^14#5*99@filesize!21&11^15#5*99@
+hit|2|hit!21&11^12#5*99@hit_up!21&11^18#9*98@
+ini|1|initial!24&17^9#5*147@
+lis|1|list_display!25&9^8#5*83@
+nam|1|name!23&7^6#5*67@
+ope|1|operations!24&17^47#5*147@
+pos|2|post_date!21&11^13#5*99@post_date!22&11^29#5*99@
+tit|1|title!21&11^10#5*99@
+wri|2|writer!21&11^9#5*99@writer!22&11^27#5*99@
+-- END TREE
